@@ -1,0 +1,4 @@
+.bundle/
+vendor/
+conf/config.yml
+nasca-slack-notify-bot.zip

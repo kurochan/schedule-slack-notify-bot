@@ -1,0 +1,14 @@
+---
+mail:
+  s3:
+    region: us-east-1
+    bucket: email-bucket
+    path: notify-email
+
+slack:
+  access_token: xoxb-1234567890-123456789012-sampletoken
+  channel_id_public: ABC1234567
+  post_to_public: false
+  channel_id_private: DEF1234567
+  post_to_private: true
+  user: GHI1234567
